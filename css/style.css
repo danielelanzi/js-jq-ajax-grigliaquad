@@ -9,10 +9,6 @@ body {
   height: 400px;
 }
 
-.display_none {
-  display: none;
-}
-
 /* girglia */
 #container {
   position: absolute;
